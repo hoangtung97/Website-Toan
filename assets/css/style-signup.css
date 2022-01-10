@@ -106,8 +106,8 @@ input {
 	transition: all 0.6s ease-in-out;
 }
 
-.sign-in-container {
-	left: 0;
+.sign-up-container {
+	right: 0;
 	width: 65%;
 	z-index: 2;
 }
@@ -115,7 +115,7 @@ input {
 .overlay-container {
 	position: absolute;
 	top: 0;
-	right: 0;
+	left: 0;
 	width: 35%;
 	height: 100%;
 	overflow: hidden;
